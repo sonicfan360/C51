@@ -1,0 +1,13 @@
+h1{color:blue}
+      /*  *{border:solid}*/
+.Sameer1{
+    background-color: black;
+    display: flex;
+    justify-content:space-between;
+}
+.grid{
+    background-color:#D909;
+    display:flex;
+    color:#00ff91;
+    justify-content:space-evenly;
+}
